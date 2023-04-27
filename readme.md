@@ -14,10 +14,14 @@ AndrewKit comes with the following components available for use:
 - Button
 - Card
 - Icon
-- Input (BETA)
+- Input
 - Picture
 - Slide
 - Typography
+- Banner
+- Menu
+- Modal
+- Floating Button
 
 You can customize them using the built-in properties inherent to them, but most of them are also customizable via the `customCSS` prop.
 
